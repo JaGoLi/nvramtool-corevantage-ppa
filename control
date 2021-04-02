@@ -1,0 +1,12 @@
+Source: nvramtool
+Section: utils
+Priority: optional
+Maintainer: Jason Goulet-Lipman <jason.gouletlipman@gmail.com>
+Build-Depends: build-essential, dh-make
+Standards-Version: 4.4.1
+Homepage: http://review.coreboot.org/coreboot
+
+Package: nvramtool
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Updated nvramtool for corevantage

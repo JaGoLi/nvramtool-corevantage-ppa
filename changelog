@@ -1,0 +1,5 @@
+nvramtool (4.13-r927fa6d04c-2groovy) groovy; urgency=medium
+
+  * Initial release
+
+ -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sun, 28 Mar 2021 20:52:59 -0400
